@@ -35,7 +35,7 @@ assetsSummary:
   - SpatialSeries
   - ProcessingModule
 citation: Balakrishnan, Kaarthik A; Haesemeyer, Martin (2025) Constant temperature
-  behavior 32C (Version draft) [Data set]. DANDI Archive. https://dandiarchive.org/dandiset/000705/draft
+  behavior 32C (Version 0.250814.1915) [Data set]. DANDI Archive. https://doi.org/10.48324/dandi.000705/0.250814.1915
 contributor:
 - awardNumber: 5 R01 NS 123887-03
   name: National Institutes of Health (NIH)
@@ -59,14 +59,15 @@ contributor:
 dateCreated: '2023-11-11T16:07:34.067120+00:00'
 datePublished: '2025-08-14T19:15:55.427806+00:00'
 description: Fish swimming behavior in light at constant 32C
+doi: 10.48324/dandi.000705/0.250814.1915
 ethicsApproval: []
-id: DANDI:000705/draft
+id: DANDI:000705/0.250814.1915
 identifier: DANDI:000705
 keywords: []
 license:
 - spdx:CC-BY-4.0
 manifestLocation:
-- https://api.dandiarchive.org/api/dandisets/000705/versions/draft/assets/
+- https://dandiarchive.s3.amazonaws.com/dandisets/000705/0.250814.1915/assets.yaml
 name: Constant temperature behavior 32C
 protocol: []
 publishedBy:
@@ -86,6 +87,6 @@ repository: https://dandiarchive.org
 schemaKey: Dandiset
 schemaVersion: 0.6.4
 studyTarget: []
-url: https://dandiarchive.org/dandiset/000705/draft
-version: draft
+url: https://dandiarchive.org/dandiset/000705/0.250814.1915
+version: 0.250814.1915
 wasGeneratedBy: []
